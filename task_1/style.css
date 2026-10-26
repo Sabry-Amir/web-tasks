@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: #3759AD;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    font-size: 25px;
+}
+.t1{
+    color: #FFC83B;
+}
+.t2{
+    color: #F4A896;
+}
+.t3{
+    color: #FDF8E2;
+}
+

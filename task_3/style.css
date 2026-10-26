@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+}
+.D1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.Maindiv{
+    background-color: lightskyblue;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+}
+.D2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+    width: 100%;
+    margin: 5px;
+}
